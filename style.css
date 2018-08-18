@@ -1,0 +1,68 @@
+/* THIS IS THE CORRECT VERSION */
+
+body {
+    background-color: grey;
+    margin: 1% 10% 1% 10%;
+    text-align: center;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+#header {
+    background-color: pink;
+    padding: 5% 0 0 0;
+    height: 50px;
+    margin: 1% 1% 1% 0%;
+}
+#nav {
+    background-color: pink;
+    padding: 5% 0 0 0;
+    height: 50px;
+    margin: 1% 1% 1% 0%;
+}
+#section {
+    float: left;
+    background-color: pink;
+    padding: 5% 0 0% 0;
+    width: 50%;
+    height: 200px;
+    margin: 1% 1% 1% 0%;
+}
+#article {
+    background-color: grey;
+    color: white;
+    margin: 1%;
+    height: 75%;
+    padding: 5% 0 5% 0;
+}
+#topBox {
+    background-color: pink;
+    color: grey;
+    margin: 2.5%;
+    height: 25%;
+    padding: 5% 0 0 0;    
+}
+#bottomBox {
+    background-color: pink;
+    color: grey;
+    margin: 2.5%;
+    height: 25%;
+    vertical-align: bottom;
+    padding: 5% 0 0 0;
+}
+#aside {
+    float: left;
+    background-color: pink;
+    padding: 5% 0 0 0;
+    width: 48%;
+    height: 200px;
+    margin: 1% 1% 1% 0%;
+}
+#footer {
+    float: left;
+    background-color: pink;
+    width: 99%;
+    padding: 5% 0 0 0;
+    height: 50px;
+    margin: 1% 1% 1% 0%;
+}
+ 
